@@ -26,7 +26,7 @@ public class Main extends Application {
         window = primaryStage;
         window.setTitle("Bin2Dec - IBM");
 
-        //Form
+        //Form creation
         Label label = new Label("Bin2Dec - Converter");
 
         TextField binInput = new TextField();
